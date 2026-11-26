@@ -1,47 +1,29 @@
 # Parikshita Thakur
 
-1st Year B.Tech CSE (1st Semester) Student at Shoolini University (2026–2030)  
-Location: Shimla, Himachal Pradesh, India
+Hi! I am a 1st year B.Tech CSE student at Shoolini University (Semester 1).  
+I am from Shimla, Himachal Pradesh.
 
-Welcome to my GitHub profile. I am a first-year Computer Science and Engineering student focusing on fundamental programming concepts, C language problem-solving, and basic web development.
+This is my GitHub profile where I upload my practice programs and beginner college projects.
 
----
+### What I'm Learning Right Now
 
-### Current Focus
+- C programming (loops, functions, arrays, structures)
+- Basic web development (HTML, CSS, JavaScript)
+- Using Git and GitHub to save my code
 
-- Semester 1 Curriculum: Core C programming, basic algorithms, and computer fundamentals.
-- Web Development: Learning HTML5, CSS3, and foundational JavaScript.
-- Technical Exploration: Prompt engineering and utilizing AI tools to support programming coursework.
-- Academic Goals: Build a solid foundation in data structures and collaborate on student projects.
+### My 1st Sem Projects
 
----
+- [ATM Simulation System](https://github.com/parikshitathakur/atm-simulation-system): A simple console project in C made for lab practice.
+- [Student Record Management](https://github.com/parikshitathakur/student-record-management): C program to add and view student records using structures.
+- [Student Registration Form](https://parikshitathakur.github.io/student-registration-form/): A basic registration form with HTML, CSS, and JS.
+- [Portfolio Website](https://parikshitathakur.github.io/personal-portfolio-website/): A simple webpage about me.
 
-### Technologies and Tools
+### About Me
 
-- Languages: C, HTML5, CSS3, JavaScript
-- Tools: Git, GitHub, VS Code
-- Extracurricular Interests: Public Speaking, Model United Nations (MUN)
+- I enjoy public speaking, debates, and MUNs.
+- Learning new things in tech every day!
 
----
-
-### First-Year Projects
-
-- [ATM Simulation System](https://github.com/parikshitathakur/atm-simulation-system) - Console-based banking system in C implementing balance inquiry, cash withdrawal, deposit, and PIN verification.
-- [Student Record Management](https://github.com/parikshitathakur/student-record-management) - C program using structures for record storage, search, and retrieval.
-- [Student Registration Form](https://parikshitathakur.github.io/student-registration-form/) - Interactive web form with client-side input validation.
-- [Personal Portfolio Website](https://parikshitathakur.github.io/personal-portfolio-website/) - Personal webpage created with HTML and CSS to document projects and learning milestones.
-
----
-
-### Beyond Academics
-
-- Active participant in university public speaking events and Model United Nations (MUN) conferences.
-- Interested in collaborative student initiatives and technical workshops.
-
----
-
-### Contact
+### Connect
 
 - LinkedIn: [linkedin.com/in/parikshita-thakur-6932b1389](https://www.linkedin.com/in/parikshita-thakur-6932b1389/)
-- Portfolio: [parikshitathakur.github.io/personal-portfolio-website](https://parikshitathakur.github.io/personal-portfolio-website/)
 - Email: parikshitathakur3211@gmail.com
